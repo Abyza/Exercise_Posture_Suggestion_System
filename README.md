@@ -1,6 +1,6 @@
-# Project_Posture_Correction
+# Project Posture Correction
 
-Make by: 
+## Made by: 
 
 Paulo Mendoza
 
@@ -13,6 +13,8 @@ Bnedick Labbao
 linkedin: https://www.linkedin.com/in/benedick-labbao-64382a244/
 
 github: https://github.com/Wizxrdx
+
+## Project Info
 
 This is our project for our course CPE 313 - Advanced Machine Learning and Deep Learning.
 
