@@ -1,4 +1,4 @@
-# Final_Project_Posture_Correction
+# Project_Posture_Correction
 
 
 video demo: https://youtu.be/6aXK-A1TD4s
