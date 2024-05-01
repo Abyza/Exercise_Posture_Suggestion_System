@@ -1,11 +1,6 @@
 # Exercise_Form_Correction_Unity
 
-application zip: https://drive.google.com/drive/folders/1S_955vMunLc92gsfApz6gysvHPEB8d1P?usp=sharing
+This is a Unity project
 
-model onnx files: https://drive.google.com/drive/folders/1shOf9Ly8Q-GNOf2SJ-vlFXdsCjib4OPa?usp=sharing
-
-creation of models: https://github.com/Abyza/model_conversion_to_onnx
-
-unity project in branch1
-
+Install the model from this link: https://drive.google.com/drive/folders/1bYw6NHUX8msriElndEnKqyFsb1Y6i7PF?usp=sharing
 
