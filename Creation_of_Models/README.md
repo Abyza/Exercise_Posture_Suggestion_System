@@ -2,11 +2,20 @@
 
 This folder contains the Interactive Python Notebook(.ipynb) files. 
 
-## Model 1
-One for model 1 which is for post-estimation to get the keypoints of the exercise and another for 
+I run this on Google Collab version: 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]
 
+## Model 1
+Post estimation
+
+Input: image 3 channels
+
+Output: 16 key points
 
 ## Model 2
-model 2 for exercise classification
+Exercise classification
+
+Input: 16 key points
+
+Output: 3 exercise class
 
 
