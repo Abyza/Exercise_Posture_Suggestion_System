@@ -7,9 +7,9 @@ I run this on Google Collab version: 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 
 ## Model 1
 Post estimation
 
-Input: image 3 channels
+Input: image with 3 channels
 
-Output: 16 key points
+Output: 16 images, heatmap where the higher value is where the key point is 
 
 ## Model 2
 Exercise classification
