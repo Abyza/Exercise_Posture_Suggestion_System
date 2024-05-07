@@ -37,7 +37,7 @@ This is our project for our course CPE 313 - Advanced Machine Learning and Deep 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/paulo-mendoza-game-dev/)
 
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=youtube)](https://youtu.be/6aXK-A1TD4s)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=youtube)](https://youtu.be/6aXK-A1TD4s)
 
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-Folder-brightgreen?style=flat-square&logo=google-drive)](https://drive.google.com/drive/folders/1bYw6NHUX8msriElndEnKqyFsb1Y6i7PF?usp=sharing)
 
