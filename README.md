@@ -21,3 +21,7 @@ This is our project for our course CPE 313 - Advanced Machine Learning and Deep 
 video demo: https://youtu.be/6aXK-A1TD4s
 
 model files and zip file of windows build: https://drive.google.com/drive/folders/1bYw6NHUX8msriElndEnKqyFsb1Y6i7PF?usp=sharing
+
+
+
+![Project Image](https://github.com/username/repository/raw/main/path/to/image.png)
