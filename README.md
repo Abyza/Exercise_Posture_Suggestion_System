@@ -24,4 +24,4 @@ model files and zip file of windows build: https://drive.google.com/drive/folder
 
 
 
-![Project Image](https://github.com/username/repository/raw/main/path/to/image.png)
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_application.png)
