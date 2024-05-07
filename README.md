@@ -30,3 +30,6 @@ model files and zip file of windows build: https://drive.google.com/drive/folder
 ![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_cmap.png)
 
 ![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_points_lines.jpg)
+
+<a class="github-button" href="https://github.com/your-username" data-size="large" aria-label="Follow @your-username on GitHub">Follow @your-username</a>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
