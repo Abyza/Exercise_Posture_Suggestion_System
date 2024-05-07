@@ -8,7 +8,7 @@ Paulo Mendoza
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/Abyza) https://github.com/Abyza
 
-Bnedick Labbao
+Benedick Labbao
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/benedick-labbao-64382a244/) https://www.linkedin.com/in/benedick-labbao-64382a244/
 
