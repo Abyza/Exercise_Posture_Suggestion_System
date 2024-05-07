@@ -18,7 +18,7 @@ github: https://github.com/Wizxrdx
 
 This is our project for our course CPE 313 - Advanced Machine Learning and Deep Learning.
 
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=youtube)](https://youtu.be/6aXK-A1TD4s) demo: https://youtu.be/6aXK-A1TD4s
+[![YouTube Video](https://img.shields.io/badge/YouTube%20Video-red?style=flat-square&logo=youtube)](https://youtu.be/6aXK-A1TD4s) demo: https://youtu.be/6aXK-A1TD4s
 
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-Folder-brightgreen?style=flat-square&logo=google-drive)](https://drive.google.com/drive/folders/1bYw6NHUX8msriElndEnKqyFsb1Y6i7PF?usp=sharing)model files and windows build: https://drive.google.com/drive/folders/1bYw6NHUX8msriElndEnKqyFsb1Y6i7PF?usp=sharing
 
@@ -41,6 +41,6 @@ This is our project for our course CPE 313 - Advanced Machine Learning and Deep 
 
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-Folder-brightgreen?style=flat-square&logo=google-drive)](https://drive.google.com/drive/folders/1bYw6NHUX8msriElndEnKqyFsb1Y6i7PF?usp=sharing)
 
-[![YouTube Video](https://img.shields.io/badge/YouTube%20Video-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=your-video-id)
+[![YouTube Video](https://img.shields.io/badge/YouTube%20Video-red?style=flat-square&logo=youtube)](https://youtu.be/6aXK-A1TD4s)
 
 
