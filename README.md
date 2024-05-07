@@ -23,11 +23,13 @@ This is our project for our course CPE 313 - Advanced Machine Learning and Deep 
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-Folder-brightgreen?style=flat-square&logo=google-drive)](https://drive.google.com/drive/folders/1bYw6NHUX8msriElndEnKqyFsb1Y6i7PF?usp=sharing) model files and windows build: https://drive.google.com/drive/folders/1bYw6NHUX8msriElndEnKqyFsb1Y6i7PF?usp=sharing
 
 
-
+## Application
 ![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_application.png)
 
+## Color Map
 ![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_cmap.png)
 
+## Points & Lines
 ![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_points_lines.jpg)
 
 
