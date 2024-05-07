@@ -33,9 +33,9 @@ model files and zip file of windows build: https://drive.google.com/drive/folder
 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)]([https://github.com/your-username](https://github.com/Abyza))
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/Abyza)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/paulo-mendoza-game-dev/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)]((https://www.linkedin.com/in/paulo-mendoza-game-dev/))
 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/your-channel-id)
 
