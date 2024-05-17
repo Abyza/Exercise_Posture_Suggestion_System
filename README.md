@@ -26,11 +26,15 @@ This is our project for our course CPE 313 - Advanced Machine Learning and Deep 
 ## Application
 ![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_application.png)
 
-## Color Map
-![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_cmap.png)
+## ResNet
 
-## Points & Lines
-![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_points_lines.jpg)
+![Project Image]([https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_cmap.png](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_ResNet.jpg))
+
+## YOLOv8
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_YOLOv8.jpg)
+
+## YOLO-NAS
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_YOLO_NAS.jpg)
 
 
 
