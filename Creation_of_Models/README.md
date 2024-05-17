@@ -23,9 +23,9 @@ Output: 17 Key points
 ## Model 3
 YOLO-NAS (You Only Look Once - Neural Architecture Search)
 
-Input: 16 key points
+Input: image with 3 channels
 
-Output: 3 exercise class
+Output: 17 Key points
 
 
 # Model for Human Activity Recognition
