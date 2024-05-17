@@ -2,7 +2,7 @@
 
 This folder contains the Interactive Python Notebook(.ipynb) files. 
 
-I run this on Google Collab version: 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]
+WE run this on Google Collab version: 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]
 
 # Model for Post Estimation
 
