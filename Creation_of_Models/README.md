@@ -11,14 +11,14 @@ ResNet
 
 Input: image with 3 channels
 
-Output: 16 images, heatmap where the higher value is where the key point is 
+Output: 16 Key points
 
 ## Model 2
 YOLOv8
 
-Input: 16 key points
+Input: image with 3 channels
 
-Output: 3 exercise class
+Output: 17 Key points
 
 ## Model 3
 YOLO-NAS (You Only Look Once - Neural Architecture Search)
