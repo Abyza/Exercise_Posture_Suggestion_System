@@ -20,6 +20,13 @@ Input: 16 key points
 
 Output: 3 exercise class
 
+## Model 3
+Exercise classification
+
+Input: 16 key points
+
+Output: 3 exercise class
+
 
 # Model for Human Activity Recognition
 
@@ -31,6 +38,13 @@ Input: image with 3 channels
 Output: 16 images, heatmap where the higher value is where the key point is 
 
 ## Model 2
+Exercise classification
+
+Input: 16 key points
+
+Output: 3 exercise class
+
+## Model 3
 Exercise classification
 
 Input: 16 key points
