@@ -21,7 +21,7 @@ Input: 16 key points
 Output: 3 exercise class
 
 ## Model 3
-YOLOv9
+YOLO-NAS (You Only Look Once - Neural Architecture Search)
 
 Input: 16 key points
 
