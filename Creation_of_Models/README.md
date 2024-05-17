@@ -7,14 +7,14 @@ Google Collab version: 3.10.12 [GCC 11.4.0]
 # Model for Post Estimation
 
 ## Model 1
-ResNet
+ResNet (Residual Network)
 
 Input: image with 3 channels
 
 Output: 16 Key points
 
 ## Model 2
-YOLOv8
+YOLOv8 (You Only Look Once version 8)
 
 Input: image with 3 channels
 
