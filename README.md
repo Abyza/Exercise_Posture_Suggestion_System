@@ -28,7 +28,7 @@ This is our project for our course CPE 313 - Advanced Machine Learning and Deep 
 
 ## ResNet
 
-![Project Image]([https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_cmap.png](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_ResNet.jpg))
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_ResNet.jpg)
 
 ## YOLOv8
 ![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_YOLOv8.jpg)
