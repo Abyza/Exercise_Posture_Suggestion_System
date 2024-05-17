@@ -30,21 +30,21 @@ Output: 3 exercise class
 
 # Model for Human Activity Recognition
 
-## Model 1
+## Model 4
 Post estimation
 
 Input: image with 3 channels
 
 Output: 16 images, heatmap where the higher value is where the key point is 
 
-## Model 2
+## Model 5
 Exercise classification
 
 Input: 16 key points
 
 Output: 3 exercise class
 
-## Model 3
+## Model 6
 Exercise classification
 
 Input: 16 key points
