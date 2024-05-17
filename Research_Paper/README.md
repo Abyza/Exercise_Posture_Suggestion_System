@@ -10,3 +10,7 @@ In today's increasingly sedentary society, where technological advancements ofte
 ## Project Demo & Deployment
 
 [![YouTube Video](https://img.shields.io/badge/YouTube%20Video-red?style=flat-square&logo=youtube)](https://youtu.be/6aXK-A1TD4s) demo: https://youtu.be/6aXK-A1TD4s
+
+## Presentation Slides
+
+In our Course Final (Advanced Machine Learning and Deep Learning) we were tasked to present our project this is the presentation slide that we used. This was done in our classroom on May 7, 2024. The attendees are our course professors and classmates.
