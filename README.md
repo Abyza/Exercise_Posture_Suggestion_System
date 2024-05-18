@@ -21,7 +21,7 @@ In today's increasingly sedentary society, where technological advancements ofte
 
 This is our project for our course CPE 313 - Advanced Machine Learning and Deep Learning.
 
-[![YouTube Video](https://img.shields.io/badge/YouTube%20Video-red?style=flat-square&logo=youtube)](https://youtu.be/_SPXa0uFGiU) demo: https://youtu.be/6aXK-A1TD4s
+[![YouTube Video](https://img.shields.io/badge/YouTube%20Video-red?style=flat-square&logo=youtube)](https://youtu.be/_SPXa0uFGiU) demo: https://youtu.be/_SPXa0uFGiU
 
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-Folder-brightgreen?style=flat-square&logo=google-drive)](https://drive.google.com/drive/folders/1bYw6NHUX8msriElndEnKqyFsb1Y6i7PF?usp=sharing) model files and windows build: https://drive.google.com/drive/folders/1bYw6NHUX8msriElndEnKqyFsb1Y6i7PF?usp=sharing
 
