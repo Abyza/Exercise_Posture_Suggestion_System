@@ -1,4 +1,4 @@
-# Project Posture Correction
+# Exercise Posture Suggestion System
 
 ## Made by: 
 
