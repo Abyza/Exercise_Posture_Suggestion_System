@@ -26,24 +26,23 @@ YOLO-NAS (You Only Look Once - Neural Architecture Search)
 # Model for Human Activity Recognition
 
 ## Model 4
-Post estimation
+Conv(2+1)D - ResNet (Residual Network)
 
-Input: image with 3 channels
-
-Output: 16 images, heatmap where the higher value is where the key point is 
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/Conv(2+1)D-ResNet_PushUps.gif)
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/Conv(2+1)D-ResNet_Lunges.gif)
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/Conv(2+1)D-ResNet_Squats.gif)
 
 ## Model 5
-Exercise classification
+3D CNN - LSTM (Long Short-Term Memory)
 
-Input: 16 key points
-
-Output: 3 exercise class
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/3DCNN-LSTM_PushUps.gif)
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/3DCNN-LSTM_Lunges.gif)
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/3DCNN-LSTM_Squats.gif)
 
 ## Model 6
-Exercise classification
+3D CNN - BiLSTM (Bidirectional Long Short-Term Memory)
 
-Input: 16 key points
-
-Output: 3 exercise class
-
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/3DCNN-BiLSTM_PushUps.gif)
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/3DCNN-BiLSTM_Lunges.gif)
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/3DCNN-BiLSTM_Squats.gif)
 
