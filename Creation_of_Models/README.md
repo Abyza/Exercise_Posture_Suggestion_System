@@ -6,7 +6,7 @@ Google Collab version: 3.10.12 [GCC 11.4.0]
 
 # Model for Post Estimation
 
-![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_ResNet.jpg)
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/images_main/summary/post_estimation_summary.png)
 
 ## Model 1
 ResNet (Residual Network)
