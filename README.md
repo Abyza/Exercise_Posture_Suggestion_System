@@ -26,14 +26,20 @@ This is our project for our course CPE 313 - Advanced Machine Learning and Deep 
 ## Application
 ![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_application.png)
 
+## Post Estimation Models
+
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/images_main/summary/post_estimation_summary.png)
+
 ## ResNet
 
 ![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_ResNet.jpg)
 
 ## YOLOv8
+
 ![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_YOLOv8.jpg)
 
 ## YOLO-NAS
+
 ![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_YOLO_NAS.jpg)
 
 
