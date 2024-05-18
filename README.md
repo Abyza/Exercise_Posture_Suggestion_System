@@ -45,8 +45,22 @@ This is our project for our course CPE 313 - Advanced Machine Learning and Deep 
 
 ![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/output_YOLO_NAS.jpg)
 
+## Human Activity Recognition Models
 
+## Conv(2+1)D - ResNet
 
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/Conv(2+1)D-ResNet_PushUps.gif)
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/Conv(2+1)D-ResNet_Lunges.gif)
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/Conv(2+1)D-ResNet_Squats.gif)
 
+## 3D CNN - LSTM 
 
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/3DCNN-LSTM_PushUps.gif)
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/3DCNN-LSTM_Lunges.gif)
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/3DCNN-LSTM_Squats.gif)
 
+## 3D CNN - BiLSTM 
+
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/3DCNN-BiLSTM_PushUps.gif)
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/3DCNN-BiLSTM_Lunges.gif)
+![Project Image](https://github.com/Abyza/Project_Exercise_Posture_Correction/blob/main/Research_Paper/Image_Results/3DCNN-BiLSTM_Squats.gif)
