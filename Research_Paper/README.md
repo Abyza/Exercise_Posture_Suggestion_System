@@ -9,7 +9,7 @@ Maintaining proper posture during exercise is crucial for reducing the risk of i
 
 ## Project Demo & Deployment
 
-[![YouTube Video](https://img.shields.io/badge/YouTube%20Video-red?style=flat-square&logo=youtube)](https://youtu.be/6aXK-A1TD4s) demo: https://youtu.be/6aXK-A1TD4s
+[![YouTube Video](https://img.shields.io/badge/YouTube%20Video-red?style=flat-square&logo=youtube)](https://youtu.be/_SPXa0uFGiU) demo: https://youtu.be/_SPXa0uFGiU
 
 ## Presentation Slides
 
